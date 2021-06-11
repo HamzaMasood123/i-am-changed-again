@@ -1,0 +1,7 @@
+.btn-primary{
+	background-color: yellow;
+}
+
+.btn-primary:hover{
+	background-color: red;
+}
